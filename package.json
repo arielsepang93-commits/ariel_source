@@ -2,5 +2,9 @@
   "name": "ariel-web-tools",
   "version": "1.0.0",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "description": "ToolsAriel - Web tools & dashboard",
+  "engines": {
+    "node": ">=18.x"
+  }
 }
